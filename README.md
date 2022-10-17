@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xSStephen
-- 👀 I’m interested in ...
+- 👀 I’m interested in making things harder for myself.
 - 🌱 I’m currently learning HTML5, CSS3 & JavaScript
 - 💞️ I’m looking to collaborate on your awesome project idea.
 - 📫 Reach out to me on one of the links below.
