@@ -5,7 +5,8 @@
 - 📫 Reach out to me on one of the links below.
 
 LinkedIn: https://www.linkedin.com/in/stefan-cristian-73065b137/
-Webpage: https://stef-projects.ro/
+
+Webpage: https://devnautica.ro/
 
 <!---
 xSStephen/xSStephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
