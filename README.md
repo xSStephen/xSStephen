@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @xSStephen
-- 👀 I’m interested in making things harder for myself.
-- 🌱 I’m currently learning HTML5, CSS3 & JavaScript
-- 💞️ I’m looking to collaborate on an awesome project idea.
-- 📫 Reach out to me on one of the links below.
+- 🌱 I’m currently learning Dart & Flutter.
 
 LinkedIn: https://www.linkedin.com/in/stefan-cristian-73065b137/
 
-Webpage: https://devnautica.ro/
+Webpage: https://devnautica.ro/ (decomissioned)
 
 <!---
 xSStephen/xSStephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
