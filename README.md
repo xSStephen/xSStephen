@@ -3,7 +3,7 @@
 
 LinkedIn: https://www.linkedin.com/in/stefan-cristian-73065b137/
 
-Webpage: https://devnautica.ro/ (decomissioned)
+Webpage: https://devnautica.ro/ (decomissioned - The Devnautica project will be back, someday)
 
 <!---
 xSStephen/xSStephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
