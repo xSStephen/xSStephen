@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xSStephen
-- 🌱 I’m currently learning Dart & Flutter.
+- 🌱 I’m currently working on Life Compass.
 
 LinkedIn: https://www.linkedin.com/in/stefan-cristian-73065b137/
 
