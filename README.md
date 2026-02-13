@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @xSStephen
 - 🌱 I’m currently working on Life Compass.
 
-LinkedIn: https://www.linkedin.com/in/stefan-cristian-73065b137/
-
 Webpage: https://devnautica.ro/
 
 <!---
