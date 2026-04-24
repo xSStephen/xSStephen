@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xSStephen
-- 🌱 I’m currently working on Life Compass.
+- 🌱 I’m currently working on Life Compass & Arkerion.
 
 Webpage: https://devnautica.ro/
 
