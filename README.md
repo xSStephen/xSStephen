@@ -53,16 +53,6 @@ Touch-friendly space shooter with tight combat, meaningful builds, and a galaxy 
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,godot,android,react,javascript,typescript,html,css,tailwind,sass,git,figma&perline=7)](https://skillicons.dev)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
