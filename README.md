@@ -29,22 +29,6 @@ Touch-friendly space shooter with tight combat, meaningful builds, and a galaxy 
 </tr>
 </table>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xSStephen/xSStephen/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xSStephen/xSStephen/main/dist/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake eating my GitHub contributions" src="https://raw.githubusercontent.com/xSStephen/xSStephen/main/dist/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ### 🔗 Connect
 
 <div align="center">
