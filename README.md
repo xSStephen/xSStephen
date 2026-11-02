@@ -18,7 +18,7 @@ Habit tracker & goal planner with streaks, reminders, progress charts, and a sup
 
 #### 🚀 Arkerion
 
-> Dodge, graze, and conquer 20 planets.
+> 2D Space Shooter RPG.
 
 Touch-friendly space shooter with tight combat, meaningful builds, and a galaxy to explore. Currently in **beta**.
 
